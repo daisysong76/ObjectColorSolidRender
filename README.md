@@ -23,12 +23,12 @@ An object color solid renderer built with React and TypeScript, using Vite as th
      ```
    - Create and activate a virtual environment (recommended):
      ```bash
-     python -m venv venv
+     python3.10 -m venv venv
      source venv/bin/activate  # On Windows use `venv\Scripts\activate`
      ```
    - Install Python dependencies:
      ```bash
-     pip install Flask Flask-Cors numpy pywavefron PyWavefront
+     pip install Flask Flask-Cors numpy PyWavefront
      ```
    - Run the Flask app:
      ```bash
